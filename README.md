@@ -1,0 +1,1 @@
+# permanent-activation-win11
